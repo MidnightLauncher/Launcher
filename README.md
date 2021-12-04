@@ -29,7 +29,7 @@ Midnight launcher is a minecraft client and launcher for minecraft!! (original o
 
 Dont want a .exe/.deb?
 
-<a href="https://snapcraft.io/cheep">
+<a href="https://snapcraft.io/">
   <img width="170px" alt="Get it from the Snap Store" src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" />
 </a>
 
